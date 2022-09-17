@@ -73,6 +73,7 @@ main {
 
     display: grid;
     gap: 24px;
+    
 
 }
 
@@ -107,7 +108,11 @@ section ul {
     gap: 16px;
 
     margin-top: 24px;
+    
+    
 }
+
+
 
 section ul li {
     transition: transform .3s;
