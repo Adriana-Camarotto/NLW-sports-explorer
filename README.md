@@ -1,4 +1,4 @@
-# NWL - Next Level 
+# NWL - Next Level Week
 
 NLW sports: an event held by Rocketseat, to accelerate the learning process in programming, regardless of the level of knowledge. Where was developed an amazing project of the universe of games, to learn new skills and technologies and accelerate the career as dev.
 
