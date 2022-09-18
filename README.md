@@ -1,9 +1,9 @@
-# NLW - eSport
+# NLW - eSports
 
 ![preview](./.github/preview.png)
 > trail explorer.
 
-Projet built during the Next Level Week - eSports.
+Project built during the Next Level Week - eSports.
 
 Event held by Rocketseat, to accelerate the learning process in programming, regardless of the level of knowledge. Where was developed a brilliant project of the universe of games, to learn new skills and technologies and accelerate the career as dev.
 
