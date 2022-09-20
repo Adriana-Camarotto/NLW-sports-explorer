@@ -23,7 +23,7 @@ September 11 to 18, September 2022
 
 ---
 
-## 📚What I learned
+## 📚What have I learned.
  
 This was my first front end project. I started from the complete zero Knowledge in coding to this amazing Project! I am very excited to the next level!
 
